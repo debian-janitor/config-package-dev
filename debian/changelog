@@ -2,6 +2,7 @@ config-package-dev (5.6) UNRELEASED; urgency=medium
 
   * Trim trailing whitespace.
   * Use canonical URL in Vcs-Git.
+  * Update standards version to 4.1.1, no changes needed.
 
  -- Debian Janitor <janitor@jelmer.uk>  Tue, 22 Jun 2021 19:28:21 -0000
 
